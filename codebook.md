@@ -2,13 +2,13 @@
 
 ### Part of dataMeans.csv - output of run_analysis.R
 
-The following variables are present in the file ```dataMeans.csv```
+The following variables are present in the file ```dataMeans.txt```
 
-#### Unique subject ID
+#### Unique subject ID - integer
     Subject
-#### Activity name
+#### Activity name - factor (character string)
     Activity
-#### Measurements
+#### Measurements - numeric values
     tBodyAcc_mean_X
     tBodyAcc_mean_Y
     tBodyAcc_mean_Z

@@ -63,4 +63,3 @@ colnames(dat_Means) <- sub("\\(\\)", "", colnames(dat_Means))
 
 # Write datMeans to file dataMeans.txt
 write.table(dat_Means, "dataMeans.txt", row.name=F)
-colnames(dat_Means)

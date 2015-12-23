@@ -7,6 +7,6 @@ The script ```run_analysis.R``` does the following:
 3. Selects the mean and standard deviation variables
 4. Transforms the variable names, removes ```()``` and changes ```-``` to ```_```
 5. Takes the mean value per subject-activity pair
-6. Stores and writes the new data frame in ```dataMeans.csv``` in the working directory
+6. Stores and writes the new data frame in ```dataMeans.txt``` in the working directory
 
 
